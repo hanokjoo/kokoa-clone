@@ -30,7 +30,7 @@ block 요소간의 margin이 겹칠 때 상하여백이 상쇄되어 두 요소�
 </body>
 ```
 
-이 경우, <body>와 <div>의 상하 마진은 더해진 50px이 아니라 30px가 적용된다.
+이 경우, `<body>`와 `<div>`의 상하 마진은 더해진 50px이 아니라 30px가 적용된다.
 
 ### BEM (Block, Element, Modifier)
 
